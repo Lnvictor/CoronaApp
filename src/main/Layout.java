@@ -223,7 +223,7 @@ public final class Layout {
 				System.out.println("CPF: " + p.getCpf());
 				System.out.println("Username: " + p.getUsername());
 				System.out.println("Estado: " + p.getState());
-				System.out.println("Campinas: " + p.getCity());
+				System.out.println("Cidade: " + p.getCity());
 				System.out.println("Telefone: " + p.getPhone());
 				System.out.println("Sintomas: ");
 				for (Integer index: p.getSintomas()) {
