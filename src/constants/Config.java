@@ -6,7 +6,7 @@ package constants;
  */
 public interface Config {
 	
-	String FULL_PATH = "/home/victor/Projects/CoronaApp/";
+	String FULL_PATH = "./";
 
 	String PACIENTE_FILE_PATH = FULL_PATH + "usuario.csv";
 	String MEDICO_FILE_PATH = FULL_PATH + "medico.csv";
